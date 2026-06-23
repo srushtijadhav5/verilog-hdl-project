@@ -15,7 +15,7 @@ week1–8/
 ├── testbenches/          # Testbench files (.v)
 └── waveforms/            # Simulation outputs (.vcd) — in .gitignore
 
-week4/ and week8/
+week3/ and week8/
 └── reports/              # Midterm and endterm reports
 
 week8/
@@ -40,11 +40,11 @@ docs/                     # Reference materials
 * 4-bit ripple carry adder
 * 8-bit adder/subtractor
 * 4-bit magnitude comparator
+* Midterm report submitted
 
 **Week 4 (Jun 22–28) — 4-bit ALU (MIDTERM)**
 * 8-operation ALU (ADD, SUB, AND, OR, XOR, NOT, <<, >>)
 * Barrel shifter
-* Midterm report submitted
 
 **Week 5 (Jun 29–Jul 5) — Sequential Logic**
 * D, JK, T flip-flops
