@@ -2,7 +2,7 @@ module half_sub(a,b,d,c);
   input a,b;
   output d,c;
   
-  assign d= ~(a^b);
+  assign d= (a^b);
   assign c= (~a)&b;
   
 endmodule
