@@ -19,7 +19,7 @@ week3/ and week8/
 └── reports/              # Midterm and endterm reports
 
 week8/
-└── synthesis/            # Vivado RTL schematic & timing reports
+└── synthesis/            # Quartus schematic & timing reports
 
 tools/                    # Simulation scripts, notes
 docs/                     # Reference materials
