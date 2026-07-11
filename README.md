@@ -62,7 +62,7 @@ docs/                     # Reference materials
 * Frequency divider
 
 **Week 8 (Jul 20–21) — Synthesis (ENDTERM)**
-* Synthesize ALU and traffic light in Vivado
+* Synthesize ALU and traffic light in Quartus
 * RTL schematic screenshots + timing reports
 * Final report submitted
 
